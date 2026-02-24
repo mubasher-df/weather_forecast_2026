@@ -1,0 +1,1101 @@
+{
+    "code": 200,
+    "status": "success",
+    "station": {
+        "device_id": 1020,
+        "device_name": "Meenangadi AWS - Thanal Trust",
+        "latitude": "11.663329157288159",
+        "longitude": "76.1664729306851",
+        "powered_by": "Indra by mistEO"
+    },
+    "unit": {
+        "temperature": "\u00b0C",
+        "relative_humidity": "%",
+        "pressure": "hPa",
+        "rainfall": "mm",
+        "wind_speed": "m/s",
+        "wind_direction": "degree"
+    },
+    "forecast": [
+        {
+            "timestamp": "2026-02-24T00:00:00",
+            "temperature": 18.92,
+            "relative_humidity": 99,
+            "pressure": 923.53,
+            "rainfall": 0,
+            "wind_direction": 164,
+            "wind_speed": 0.6
+        },
+        {
+            "timestamp": "2026-02-24T01:00:00",
+            "temperature": 18.46,
+            "relative_humidity": 100,
+            "pressure": 923.01,
+            "rainfall": 0,
+            "wind_direction": 143,
+            "wind_speed": 0.6
+        },
+        {
+            "timestamp": "2026-02-24T02:00:00",
+            "temperature": 18.01,
+            "relative_humidity": 100,
+            "pressure": 922.5,
+            "rainfall": 0,
+            "wind_direction": 137,
+            "wind_speed": 0.3
+        },
+        {
+            "timestamp": "2026-02-24T03:00:00",
+            "temperature": 17.66,
+            "relative_humidity": 100,
+            "pressure": 922.37,
+            "rainfall": 0,
+            "wind_direction": 122,
+            "wind_speed": 0.9
+        },
+        {
+            "timestamp": "2026-02-24T04:00:00",
+            "temperature": 17.67,
+            "relative_humidity": 99,
+            "pressure": 922.72,
+            "rainfall": 0.02,
+            "wind_direction": 101,
+            "wind_speed": 0.9
+        },
+        {
+            "timestamp": "2026-02-24T05:00:00",
+            "temperature": 19.29,
+            "relative_humidity": 98,
+            "pressure": 923.14,
+            "rainfall": 0.04,
+            "wind_direction": 82,
+            "wind_speed": 0.5
+        },
+        {
+            "timestamp": "2026-02-24T06:00:00",
+            "temperature": 19.12,
+            "relative_humidity": 99,
+            "pressure": 924.12,
+            "rainfall": 0.01,
+            "wind_direction": 49,
+            "wind_speed": 0.8
+        },
+        {
+            "timestamp": "2026-02-24T07:00:00",
+            "temperature": 19.76,
+            "relative_humidity": 96,
+            "pressure": 924.82,
+            "rainfall": 0.05,
+            "wind_direction": 49,
+            "wind_speed": 0.2
+        },
+        {
+            "timestamp": "2026-02-24T08:00:00",
+            "temperature": 21.35,
+            "relative_humidity": 90,
+            "pressure": 925.5,
+            "rainfall": 0.01,
+            "wind_direction": 214,
+            "wind_speed": 0.6
+        },
+        {
+            "timestamp": "2026-02-24T09:00:00",
+            "temperature": 24.12,
+            "relative_humidity": 75,
+            "pressure": 925.96,
+            "rainfall": 0,
+            "wind_direction": 254,
+            "wind_speed": 0.5
+        },
+        {
+            "timestamp": "2026-02-24T10:00:00",
+            "temperature": 26.53,
+            "relative_humidity": 60,
+            "pressure": 925.86,
+            "rainfall": 0,
+            "wind_direction": 299,
+            "wind_speed": 0.8
+        },
+        {
+            "timestamp": "2026-02-24T11:00:00",
+            "temperature": 27.94,
+            "relative_humidity": 51,
+            "pressure": 924.99,
+            "rainfall": 0,
+            "wind_direction": 281,
+            "wind_speed": 0.7
+        },
+        {
+            "timestamp": "2026-02-24T12:00:00",
+            "temperature": 29.17,
+            "relative_humidity": 45,
+            "pressure": 923.82,
+            "rainfall": 0,
+            "wind_direction": 278,
+            "wind_speed": 0.6
+        },
+        {
+            "timestamp": "2026-02-24T13:00:00",
+            "temperature": 30.08,
+            "relative_humidity": 40,
+            "pressure": 922.63,
+            "rainfall": 0.02,
+            "wind_direction": 171,
+            "wind_speed": 0.1
+        },
+        {
+            "timestamp": "2026-02-24T14:00:00",
+            "temperature": 30.16,
+            "relative_humidity": 39,
+            "pressure": 921.67,
+            "rainfall": 0,
+            "wind_direction": 205,
+            "wind_speed": 0.7
+        },
+        {
+            "timestamp": "2026-02-24T15:00:00",
+            "temperature": 29.68,
+            "relative_humidity": 40,
+            "pressure": 921.07,
+            "rainfall": 0,
+            "wind_direction": 222,
+            "wind_speed": 1.3
+        },
+        {
+            "timestamp": "2026-02-24T16:00:00",
+            "temperature": 28.48,
+            "relative_humidity": 45,
+            "pressure": 921.5,
+            "rainfall": 0,
+            "wind_direction": 230,
+            "wind_speed": 2.5
+        },
+        {
+            "timestamp": "2026-02-24T17:00:00",
+            "temperature": 26.58,
+            "relative_humidity": 60,
+            "pressure": 922.43,
+            "rainfall": 0,
+            "wind_direction": 227,
+            "wind_speed": 3.2
+        },
+        {
+            "timestamp": "2026-02-24T18:00:00",
+            "temperature": 24.61,
+            "relative_humidity": 72,
+            "pressure": 923.14,
+            "rainfall": 0,
+            "wind_direction": 203,
+            "wind_speed": 2.3
+        },
+        {
+            "timestamp": "2026-02-24T19:00:00",
+            "temperature": 22.84,
+            "relative_humidity": 83,
+            "pressure": 924.13,
+            "rainfall": 0,
+            "wind_direction": 195,
+            "wind_speed": 1.8
+        },
+        {
+            "timestamp": "2026-02-24T20:00:00",
+            "temperature": 21.7,
+            "relative_humidity": 90,
+            "pressure": 925.1,
+            "rainfall": 0,
+            "wind_direction": 184,
+            "wind_speed": 1.5
+        },
+        {
+            "timestamp": "2026-02-24T21:00:00",
+            "temperature": 21.16,
+            "relative_humidity": 94,
+            "pressure": 925.85,
+            "rainfall": 0,
+            "wind_direction": 185,
+            "wind_speed": 1.7
+        },
+        {
+            "timestamp": "2026-02-24T22:00:00",
+            "temperature": 21.2,
+            "relative_humidity": 95,
+            "pressure": 926.26,
+            "rainfall": 0,
+            "wind_direction": 153,
+            "wind_speed": 0.9
+        },
+        {
+            "timestamp": "2026-02-24T23:00:00",
+            "temperature": 21.27,
+            "relative_humidity": 95,
+            "pressure": 926.29,
+            "rainfall": 0,
+            "wind_direction": 175,
+            "wind_speed": 2
+        },
+        {
+            "timestamp": "2026-02-25T00:00:00",
+            "temperature": 21.12,
+            "relative_humidity": 95,
+            "pressure": 925.69,
+            "rainfall": 0,
+            "wind_direction": 168,
+            "wind_speed": 0.8
+        },
+        {
+            "timestamp": "2026-02-25T01:00:00",
+            "temperature": 20.28,
+            "relative_humidity": 96,
+            "pressure": 925.22,
+            "rainfall": 0,
+            "wind_direction": 81,
+            "wind_speed": 2.6
+        },
+        {
+            "timestamp": "2026-02-25T02:00:00",
+            "temperature": 18.69,
+            "relative_humidity": 92,
+            "pressure": 924.84,
+            "rainfall": 2.92,
+            "wind_direction": 82,
+            "wind_speed": 2.6
+        },
+        {
+            "timestamp": "2026-02-25T03:00:00",
+            "temperature": 18.21,
+            "relative_humidity": 97,
+            "pressure": 924.49,
+            "rainfall": 1.66,
+            "wind_direction": 250,
+            "wind_speed": 1.9
+        },
+        {
+            "timestamp": "2026-02-25T04:00:00",
+            "temperature": 17.95,
+            "relative_humidity": 96,
+            "pressure": 924.59,
+            "rainfall": 0,
+            "wind_direction": 53,
+            "wind_speed": 0.8
+        },
+        {
+            "timestamp": "2026-02-25T05:00:00",
+            "temperature": 17.66,
+            "relative_humidity": 97,
+            "pressure": 924.83,
+            "rainfall": 0,
+            "wind_direction": 76,
+            "wind_speed": 1.1
+        },
+        {
+            "timestamp": "2026-02-25T06:00:00",
+            "temperature": 17.48,
+            "relative_humidity": 95,
+            "pressure": 925.64,
+            "rainfall": 0,
+            "wind_direction": 143,
+            "wind_speed": 0.6
+        },
+        {
+            "timestamp": "2026-02-25T07:00:00",
+            "temperature": 18.47,
+            "relative_humidity": 94,
+            "pressure": 926.47,
+            "rainfall": 0,
+            "wind_direction": 325,
+            "wind_speed": 0.2
+        },
+        {
+            "timestamp": "2026-02-25T08:00:00",
+            "temperature": 20.11,
+            "relative_humidity": 91,
+            "pressure": 927.2,
+            "rainfall": 0,
+            "wind_direction": 345,
+            "wind_speed": 0.5
+        },
+        {
+            "timestamp": "2026-02-25T09:00:00",
+            "temperature": 22.76,
+            "relative_humidity": 81,
+            "pressure": 927.6,
+            "rainfall": 0,
+            "wind_direction": 345,
+            "wind_speed": 0.6
+        },
+        {
+            "timestamp": "2026-02-25T10:00:00",
+            "temperature": 25.17,
+            "relative_humidity": 68,
+            "pressure": 927.61,
+            "rainfall": 0,
+            "wind_direction": 304,
+            "wind_speed": 1
+        },
+        {
+            "timestamp": "2026-02-25T11:00:00",
+            "temperature": 26.97,
+            "relative_humidity": 60,
+            "pressure": 926.83,
+            "rainfall": 0,
+            "wind_direction": 300,
+            "wind_speed": 1
+        },
+        {
+            "timestamp": "2026-02-25T12:00:00",
+            "temperature": 28.08,
+            "relative_humidity": 55,
+            "pressure": 925.7,
+            "rainfall": 0,
+            "wind_direction": 299,
+            "wind_speed": 0.9
+        },
+        {
+            "timestamp": "2026-02-25T13:00:00",
+            "temperature": 28.88,
+            "relative_humidity": 50,
+            "pressure": 924.57,
+            "rainfall": 0,
+            "wind_direction": 276,
+            "wind_speed": 0.9
+        },
+        {
+            "timestamp": "2026-02-25T14:00:00",
+            "temperature": 29.62,
+            "relative_humidity": 42,
+            "pressure": 923.22,
+            "rainfall": 0,
+            "wind_direction": 347,
+            "wind_speed": 1.3
+        },
+        {
+            "timestamp": "2026-02-25T15:00:00",
+            "temperature": 30.37,
+            "relative_humidity": 36,
+            "pressure": 922.66,
+            "rainfall": 0,
+            "wind_direction": 311,
+            "wind_speed": 1.5
+        },
+        {
+            "timestamp": "2026-02-25T16:00:00",
+            "temperature": 28.58,
+            "relative_humidity": 43,
+            "pressure": 923.11,
+            "rainfall": 0,
+            "wind_direction": 283,
+            "wind_speed": 2.8
+        },
+        {
+            "timestamp": "2026-02-25T17:00:00",
+            "temperature": 25.12,
+            "relative_humidity": 68,
+            "pressure": 924.19,
+            "rainfall": 0.92,
+            "wind_direction": 233,
+            "wind_speed": 2.7
+        },
+        {
+            "timestamp": "2026-02-25T18:00:00",
+            "temperature": 23.49,
+            "relative_humidity": 77,
+            "pressure": 924.77,
+            "rainfall": 0,
+            "wind_direction": 175,
+            "wind_speed": 2
+        },
+        {
+            "timestamp": "2026-02-25T19:00:00",
+            "temperature": 21.91,
+            "relative_humidity": 86,
+            "pressure": 925.59,
+            "rainfall": 0,
+            "wind_direction": 187,
+            "wind_speed": 2.1
+        },
+        {
+            "timestamp": "2026-02-25T20:00:00",
+            "temperature": 20.89,
+            "relative_humidity": 94,
+            "pressure": 926.18,
+            "rainfall": 0,
+            "wind_direction": 199,
+            "wind_speed": 1.7
+        },
+        {
+            "timestamp": "2026-02-25T21:00:00",
+            "temperature": 20.22,
+            "relative_humidity": 96,
+            "pressure": 926.89,
+            "rainfall": 0,
+            "wind_direction": 174,
+            "wind_speed": 0.3
+        },
+        {
+            "timestamp": "2026-02-25T22:00:00",
+            "temperature": 20.39,
+            "relative_humidity": 97,
+            "pressure": 926.96,
+            "rainfall": 0,
+            "wind_direction": 185,
+            "wind_speed": 1.3
+        },
+        {
+            "timestamp": "2026-02-25T23:00:00",
+            "temperature": 20.1,
+            "relative_humidity": 98,
+            "pressure": 926.69,
+            "rainfall": 0,
+            "wind_direction": 171,
+            "wind_speed": 1.2
+        },
+        {
+            "timestamp": "2026-02-26T00:00:00",
+            "temperature": 20.25,
+            "relative_humidity": 98,
+            "pressure": 926.3,
+            "rainfall": 0,
+            "wind_direction": 138,
+            "wind_speed": 1.2
+        },
+        {
+            "timestamp": "2026-02-26T01:00:00",
+            "temperature": 20.01,
+            "relative_humidity": 98,
+            "pressure": 925.58,
+            "rainfall": 0,
+            "wind_direction": 250,
+            "wind_speed": 0.2
+        },
+        {
+            "timestamp": "2026-02-26T02:00:00",
+            "temperature": 19.94,
+            "relative_humidity": 99,
+            "pressure": 924.99,
+            "rainfall": 0,
+            "wind_direction": 278,
+            "wind_speed": 0.4
+        },
+        {
+            "timestamp": "2026-02-26T03:00:00",
+            "temperature": 19.62,
+            "relative_humidity": 100,
+            "pressure": 924.68,
+            "rainfall": 0,
+            "wind_direction": 134,
+            "wind_speed": 0.2
+        },
+        {
+            "timestamp": "2026-02-26T04:00:00",
+            "temperature": 19.51,
+            "relative_humidity": 100,
+            "pressure": 924.72,
+            "rainfall": 0,
+            "wind_direction": 93,
+            "wind_speed": 0.3
+        },
+        {
+            "timestamp": "2026-02-26T05:00:00",
+            "temperature": 19.47,
+            "relative_humidity": 99,
+            "pressure": 924.82,
+            "rainfall": 0,
+            "wind_direction": 352,
+            "wind_speed": 0.3
+        },
+        {
+            "timestamp": "2026-02-26T06:00:00",
+            "temperature": 19.35,
+            "relative_humidity": 99,
+            "pressure": 925.6,
+            "rainfall": 0,
+            "wind_direction": 312,
+            "wind_speed": 0.6
+        },
+        {
+            "timestamp": "2026-02-26T07:00:00",
+            "temperature": 19.49,
+            "relative_humidity": 99,
+            "pressure": 926.25,
+            "rainfall": 0,
+            "wind_direction": 270,
+            "wind_speed": 0.2
+        },
+        {
+            "timestamp": "2026-02-26T08:00:00",
+            "temperature": 20.67,
+            "relative_humidity": 92,
+            "pressure": 926.91,
+            "rainfall": 0,
+            "wind_direction": 74,
+            "wind_speed": 0.2
+        },
+        {
+            "timestamp": "2026-02-26T09:00:00",
+            "temperature": 23.47,
+            "relative_humidity": 76,
+            "pressure": 927.23,
+            "rainfall": 0,
+            "wind_direction": 242,
+            "wind_speed": 0.1
+        },
+        {
+            "timestamp": "2026-02-26T10:00:00",
+            "temperature": 25.89,
+            "relative_humidity": 62,
+            "pressure": 927.13,
+            "rainfall": 0,
+            "wind_direction": 332,
+            "wind_speed": 0.5
+        },
+        {
+            "timestamp": "2026-02-26T11:00:00",
+            "temperature": 27.28,
+            "relative_humidity": 52,
+            "pressure": 926.13,
+            "rainfall": 0,
+            "wind_direction": 345,
+            "wind_speed": 1.2
+        },
+        {
+            "timestamp": "2026-02-26T12:00:00",
+            "temperature": 28.67,
+            "relative_humidity": 43,
+            "pressure": 924.64,
+            "rainfall": 0,
+            "wind_direction": 343,
+            "wind_speed": 1.3
+        },
+        {
+            "timestamp": "2026-02-26T13:00:00",
+            "temperature": 29.87,
+            "relative_humidity": 37,
+            "pressure": 923.24,
+            "rainfall": 0,
+            "wind_direction": 329,
+            "wind_speed": 2
+        },
+        {
+            "timestamp": "2026-02-26T14:00:00",
+            "temperature": 29.68,
+            "relative_humidity": 37,
+            "pressure": 922.27,
+            "rainfall": 0,
+            "wind_direction": 296,
+            "wind_speed": 2.3
+        },
+        {
+            "timestamp": "2026-02-26T15:00:00",
+            "temperature": 28.8,
+            "relative_humidity": 39,
+            "pressure": 921.61,
+            "rainfall": 0,
+            "wind_direction": 284,
+            "wind_speed": 3.4
+        },
+        {
+            "timestamp": "2026-02-26T16:00:00",
+            "temperature": 28.16,
+            "relative_humidity": 42,
+            "pressure": 921.52,
+            "rainfall": 0,
+            "wind_direction": 287,
+            "wind_speed": 3.3
+        },
+        {
+            "timestamp": "2026-02-26T17:00:00",
+            "temperature": 26.59,
+            "relative_humidity": 50,
+            "pressure": 922.36,
+            "rainfall": 0,
+            "wind_direction": 279,
+            "wind_speed": 3.2
+        },
+        {
+            "timestamp": "2026-02-26T18:00:00",
+            "temperature": 24.59,
+            "relative_humidity": 65,
+            "pressure": 922.83,
+            "rainfall": 0,
+            "wind_direction": 275,
+            "wind_speed": 1.9
+        },
+        {
+            "timestamp": "2026-02-26T19:00:00",
+            "temperature": 23.07,
+            "relative_humidity": 76,
+            "pressure": 923.66,
+            "rainfall": 0,
+            "wind_direction": 227,
+            "wind_speed": 1.6
+        },
+        {
+            "timestamp": "2026-02-26T20:00:00",
+            "temperature": 21.6,
+            "relative_humidity": 86,
+            "pressure": 924.36,
+            "rainfall": 0,
+            "wind_direction": 233,
+            "wind_speed": 1
+        },
+        {
+            "timestamp": "2026-02-26T21:00:00",
+            "temperature": 20.9,
+            "relative_humidity": 91,
+            "pressure": 924.59,
+            "rainfall": 0,
+            "wind_direction": 248,
+            "wind_speed": 1
+        },
+        {
+            "timestamp": "2026-02-26T22:00:00",
+            "temperature": 20.65,
+            "relative_humidity": 93,
+            "pressure": 924.43,
+            "rainfall": 0,
+            "wind_direction": 239,
+            "wind_speed": 0.1
+        },
+        {
+            "timestamp": "2026-02-26T23:00:00",
+            "temperature": 20.09,
+            "relative_humidity": 95,
+            "pressure": 924.14,
+            "rainfall": 0,
+            "wind_direction": 244,
+            "wind_speed": 0.5
+        },
+        {
+            "timestamp": "2026-02-27T00:00:00",
+            "temperature": 19.55,
+            "relative_humidity": 98,
+            "pressure": 923.86,
+            "rainfall": 0,
+            "wind_direction": 200,
+            "wind_speed": 0.9
+        },
+        {
+            "timestamp": "2026-02-27T01:00:00",
+            "temperature": 19.52,
+            "relative_humidity": 98,
+            "pressure": 923.16,
+            "rainfall": 0,
+            "wind_direction": 141,
+            "wind_speed": 1.2
+        },
+        {
+            "timestamp": "2026-02-27T02:00:00",
+            "temperature": 19.7,
+            "relative_humidity": 99,
+            "pressure": 922.71,
+            "rainfall": 0,
+            "wind_direction": 140,
+            "wind_speed": 1.6
+        },
+        {
+            "timestamp": "2026-02-27T03:00:00",
+            "temperature": 19.6,
+            "relative_humidity": 99,
+            "pressure": 922.5,
+            "rainfall": 0,
+            "wind_direction": 182,
+            "wind_speed": 1.4
+        },
+        {
+            "timestamp": "2026-02-27T04:00:00",
+            "temperature": 19.46,
+            "relative_humidity": 99,
+            "pressure": 922.34,
+            "rainfall": 0,
+            "wind_direction": 201,
+            "wind_speed": 1.2
+        },
+        {
+            "timestamp": "2026-02-27T05:00:00",
+            "temperature": 18.6,
+            "relative_humidity": 100,
+            "pressure": 922.54,
+            "rainfall": 0,
+            "wind_direction": 182,
+            "wind_speed": 0.9
+        },
+        {
+            "timestamp": "2026-02-27T06:00:00",
+            "temperature": 18.34,
+            "relative_humidity": 100,
+            "pressure": 923.43,
+            "rainfall": 0,
+            "wind_direction": 154,
+            "wind_speed": 1.5
+        },
+        {
+            "timestamp": "2026-02-27T07:00:00",
+            "temperature": 18.85,
+            "relative_humidity": 98,
+            "pressure": 924.55,
+            "rainfall": 0,
+            "wind_direction": 113,
+            "wind_speed": 0.8
+        },
+        {
+            "timestamp": "2026-02-27T08:00:00",
+            "temperature": 20.93,
+            "relative_humidity": 87,
+            "pressure": 925.34,
+            "rainfall": 0,
+            "wind_direction": 180,
+            "wind_speed": 0.8
+        },
+        {
+            "timestamp": "2026-02-27T09:00:00",
+            "temperature": 23.75,
+            "relative_humidity": 69,
+            "pressure": 925.52,
+            "rainfall": 0,
+            "wind_direction": 221,
+            "wind_speed": 1
+        },
+        {
+            "timestamp": "2026-02-27T10:00:00",
+            "temperature": 26.13,
+            "relative_humidity": 55,
+            "pressure": 925.45,
+            "rainfall": 0,
+            "wind_direction": 246,
+            "wind_speed": 0.9
+        },
+        {
+            "timestamp": "2026-02-27T11:00:00",
+            "temperature": 27.6,
+            "relative_humidity": 45,
+            "pressure": 924.57,
+            "rainfall": 0,
+            "wind_direction": 272,
+            "wind_speed": 0.8
+        },
+        {
+            "timestamp": "2026-02-27T12:00:00",
+            "temperature": 28.86,
+            "relative_humidity": 38,
+            "pressure": 923.14,
+            "rainfall": 0,
+            "wind_direction": 287,
+            "wind_speed": 1.5
+        },
+        {
+            "timestamp": "2026-02-27T13:00:00",
+            "temperature": 29.8,
+            "relative_humidity": 35,
+            "pressure": 921.75,
+            "rainfall": 0,
+            "wind_direction": 273,
+            "wind_speed": 2.3
+        },
+        {
+            "timestamp": "2026-02-27T14:00:00",
+            "temperature": 29.77,
+            "relative_humidity": 36,
+            "pressure": 920.75,
+            "rainfall": 0,
+            "wind_direction": 260,
+            "wind_speed": 4
+        },
+        {
+            "timestamp": "2026-02-27T15:00:00",
+            "temperature": 27.99,
+            "relative_humidity": 42,
+            "pressure": 920.54,
+            "rainfall": 0,
+            "wind_direction": 269,
+            "wind_speed": 4.1
+        },
+        {
+            "timestamp": "2026-02-27T16:00:00",
+            "temperature": 27.53,
+            "relative_humidity": 43,
+            "pressure": 920.64,
+            "rainfall": 0,
+            "wind_direction": 257,
+            "wind_speed": 2.5
+        },
+        {
+            "timestamp": "2026-02-27T17:00:00",
+            "temperature": 26.28,
+            "relative_humidity": 50,
+            "pressure": 921.4,
+            "rainfall": 0,
+            "wind_direction": 257,
+            "wind_speed": 3
+        },
+        {
+            "timestamp": "2026-02-27T18:00:00",
+            "temperature": 24.69,
+            "relative_humidity": 60,
+            "pressure": 921.96,
+            "rainfall": 0,
+            "wind_direction": 255,
+            "wind_speed": 2.4
+        },
+        {
+            "timestamp": "2026-02-27T19:00:00",
+            "temperature": 23.09,
+            "relative_humidity": 70,
+            "pressure": 922.53,
+            "rainfall": 0,
+            "wind_direction": 253,
+            "wind_speed": 1.7
+        },
+        {
+            "timestamp": "2026-02-27T20:00:00",
+            "temperature": 21.5,
+            "relative_humidity": 81,
+            "pressure": 923.09,
+            "rainfall": 0,
+            "wind_direction": 251,
+            "wind_speed": 1.1
+        },
+        {
+            "timestamp": "2026-02-27T21:00:00",
+            "temperature": 20.76,
+            "relative_humidity": 85,
+            "pressure": 923.1,
+            "rainfall": 0,
+            "wind_direction": 232,
+            "wind_speed": 1
+        },
+        {
+            "timestamp": "2026-02-27T22:00:00",
+            "temperature": 20.01,
+            "relative_humidity": 90,
+            "pressure": 923.1,
+            "rainfall": 0,
+            "wind_direction": 212,
+            "wind_speed": 0.9
+        },
+        {
+            "timestamp": "2026-02-27T23:00:00",
+            "temperature": 19.27,
+            "relative_humidity": 94,
+            "pressure": 923.11,
+            "rainfall": 0,
+            "wind_direction": 192,
+            "wind_speed": 0.8
+        },
+        {
+            "timestamp": "2026-02-28T00:00:00",
+            "temperature": 18.67,
+            "relative_humidity": 96,
+            "pressure": 922.56,
+            "rainfall": 0,
+            "wind_direction": 175,
+            "wind_speed": 0.8
+        },
+        {
+            "timestamp": "2026-02-28T01:00:00",
+            "temperature": 18.06,
+            "relative_humidity": 97,
+            "pressure": 922.01,
+            "rainfall": 0,
+            "wind_direction": 158,
+            "wind_speed": 0.8
+        },
+        {
+            "timestamp": "2026-02-28T02:00:00",
+            "temperature": 17.46,
+            "relative_humidity": 98,
+            "pressure": 921.46,
+            "rainfall": 0,
+            "wind_direction": 141,
+            "wind_speed": 0.8
+        },
+        {
+            "timestamp": "2026-02-28T03:00:00",
+            "temperature": 17.43,
+            "relative_humidity": 99,
+            "pressure": 921.62,
+            "rainfall": 0,
+            "wind_direction": 141,
+            "wind_speed": 0.9
+        },
+        {
+            "timestamp": "2026-02-28T04:00:00",
+            "temperature": 17.41,
+            "relative_humidity": 99,
+            "pressure": 921.77,
+            "rainfall": 0,
+            "wind_direction": 140,
+            "wind_speed": 1
+        },
+        {
+            "timestamp": "2026-02-28T05:00:00",
+            "temperature": 17.38,
+            "relative_humidity": 99,
+            "pressure": 921.93,
+            "rainfall": 0,
+            "wind_direction": 140,
+            "wind_speed": 1.2
+        },
+        {
+            "timestamp": "2026-02-28T06:00:00",
+            "temperature": 18.35,
+            "relative_humidity": 96,
+            "pressure": 922.77,
+            "rainfall": 0,
+            "wind_direction": 127,
+            "wind_speed": 0.9
+        },
+        {
+            "timestamp": "2026-02-28T07:00:00",
+            "temperature": 19.31,
+            "relative_humidity": 93,
+            "pressure": 923.62,
+            "rainfall": 0,
+            "wind_direction": 114,
+            "wind_speed": 0.6
+        },
+        {
+            "timestamp": "2026-02-28T08:00:00",
+            "temperature": 20.28,
+            "relative_humidity": 89,
+            "pressure": 924.46,
+            "rainfall": 0,
+            "wind_direction": 101,
+            "wind_speed": 0.3
+        },
+        {
+            "timestamp": "2026-02-28T09:00:00",
+            "temperature": 23.16,
+            "relative_humidity": 72,
+            "pressure": 924.26,
+            "rainfall": 0,
+            "wind_direction": 187,
+            "wind_speed": 1
+        },
+        {
+            "timestamp": "2026-02-28T10:00:00",
+            "temperature": 26.03,
+            "relative_humidity": 55,
+            "pressure": 924.06,
+            "rainfall": 0,
+            "wind_direction": 272,
+            "wind_speed": 1.7
+        },
+        {
+            "timestamp": "2026-02-28T11:00:00",
+            "temperature": 28.91,
+            "relative_humidity": 38,
+            "pressure": 923.86,
+            "rainfall": 0,
+            "wind_direction": 358,
+            "wind_speed": 2.4
+        },
+        {
+            "timestamp": "2026-02-28T12:00:00",
+            "temperature": 29.44,
+            "relative_humidity": 36,
+            "pressure": 922.8,
+            "rainfall": 0,
+            "wind_direction": 280,
+            "wind_speed": 2
+        },
+        {
+            "timestamp": "2026-02-28T13:00:00",
+            "temperature": 29.96,
+            "relative_humidity": 34,
+            "pressure": 921.75,
+            "rainfall": 0,
+            "wind_direction": 203,
+            "wind_speed": 1.5
+        },
+        {
+            "timestamp": "2026-02-28T14:00:00",
+            "temperature": 30.49,
+            "relative_humidity": 32,
+            "pressure": 920.69,
+            "rainfall": 0,
+            "wind_direction": 125,
+            "wind_speed": 1.1
+        },
+        {
+            "timestamp": "2026-02-28T15:00:00",
+            "temperature": 28.98,
+            "relative_humidity": 40,
+            "pressure": 920.87,
+            "rainfall": 0,
+            "wind_direction": 174,
+            "wind_speed": 1.5
+        },
+        {
+            "timestamp": "2026-02-28T16:00:00",
+            "temperature": 27.46,
+            "relative_humidity": 48,
+            "pressure": 921.06,
+            "rainfall": 0,
+            "wind_direction": 223,
+            "wind_speed": 1.8
+        },
+        {
+            "timestamp": "2026-02-28T17:00:00",
+            "temperature": 25.95,
+            "relative_humidity": 56,
+            "pressure": 921.24,
+            "rainfall": 0,
+            "wind_direction": 273,
+            "wind_speed": 2.2
+        },
+        {
+            "timestamp": "2026-02-28T18:00:00",
+            "temperature": 24.49,
+            "relative_humidity": 64,
+            "pressure": 921.91,
+            "rainfall": 0,
+            "wind_direction": 250,
+            "wind_speed": 1.9
+        },
+        {
+            "timestamp": "2026-02-28T19:00:00",
+            "temperature": 23.02,
+            "relative_humidity": 73,
+            "pressure": 922.58,
+            "rainfall": 0,
+            "wind_direction": 227,
+            "wind_speed": 1.6
+        },
+        {
+            "timestamp": "2026-02-28T20:00:00",
+            "temperature": 21.56,
+            "relative_humidity": 81,
+            "pressure": 923.25,
+            "rainfall": 0,
+            "wind_direction": 204,
+            "wind_speed": 1.3
+        },
+        {
+            "timestamp": "2026-02-28T21:00:00",
+            "temperature": 20.9,
+            "relative_humidity": 86,
+            "pressure": 923.35,
+            "rainfall": 0,
+            "wind_direction": 186,
+            "wind_speed": 1.3
+        },
+        {
+            "timestamp": "2026-02-28T22:00:00",
+            "temperature": 20.24,
+            "relative_humidity": 91,
+            "pressure": 923.45,
+            "rainfall": 0,
+            "wind_direction": 169,
+            "wind_speed": 1.4
+        },
+        {
+            "timestamp": "2026-02-28T23:00:00",
+            "temperature": 19.58,
+            "relative_humidity": 95,
+            "pressure": 923.55,
+            "rainfall": 0,
+            "wind_direction": 151,
+            "wind_speed": 1.5
+        }
+    ]
+}
